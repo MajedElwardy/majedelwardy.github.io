@@ -1,2 +1,4 @@
 # majedelwardy.github.io
-Majed Elwardy website
+Personal page
+
+Majed Elwardy website about my PhD thesis.

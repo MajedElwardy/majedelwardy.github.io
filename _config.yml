@@ -1,0 +1,22 @@
+title: Majed Elwardy
+author: Majed Elwardy
+email: majed.elwardy@bth.se
+location: Karlskrona, Sweden
+avatar: /logo.jpeg
+subscribe: false
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+
+remote_theme: ngzhio/jekyll-theme-hamilton
+
+# skin: Daylight
+
+exclude:
+  - README.md
+
+logo: /logo.jpeg
