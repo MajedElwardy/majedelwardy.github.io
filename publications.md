@@ -25,7 +25,7 @@ title: "List of publications"
 
 ### Other research contributions related to the scope of this thesis but not included:
 
-</ol type="I">
+<ol>
 <li style='text-align: justify;'>***Majed Elwardy***, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Veronica Sundstedt, “Objective Perceptual Video Quality Prediction Using Spatial and Temporal Information Differences,” in Proceedings of the IEEE International Symposium on Communications and Information Technologies (ISCIT), Ho Chi Minh City, Vietnam, Sep. 2018, pp. 436-441.</li>
 
 <li style='text-align: justify;'>Hans-Jürgen Zepernick, **Majed Elwardy**, Yan Hu, and Veronica Sundstedt, “On the Number of Participants Needed for Subjective Quality Assessment of 360$^{\circ}$ Videos,” in Proceeding of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 50-59. </li>
