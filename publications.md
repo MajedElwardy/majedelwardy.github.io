@@ -20,12 +20,12 @@ title: "List of publications"
 <li style='text-align: justify;'>Yan Hu, Majed Elwardy, and Hans-Jürgen Zepernick, “On the Effect of Standing and Seated Viewing of 360$^{\circ}$ Videos on Subjective Quality Assessment: A Pilot Study,” Computers, Volume 10, pp. 1-28, Jun. 2021.</li>
 
 <li style='text-align: justify;'>Majed Elwardy, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Yan Hu, “On the Consistency of 360$^{\circ}$ Video Quality Assessment in Repeated Subjective Tests: A Pilot Study,” EAI Endorsed Transactions on Industrial Networks and Intelligent Systems: Online First, pp. 1-22, Jan. 2024.</li>
-</ol>
+
 
 
 ### Other research contributions related to the scope of this thesis but not included:
 
-<ol>
+
 <li style='text-align: justify;'>***Majed Elwardy***, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Veronica Sundstedt, “Objective Perceptual Video Quality Prediction Using Spatial and Temporal Information Differences,” in Proceedings of the IEEE International Symposium on Communications and Information Technologies (ISCIT), Ho Chi Minh City, Vietnam, Sep. 2018, pp. 436-441.</li>
 
 <li style='text-align: justify;'>Hans-Jürgen Zepernick, **Majed Elwardy**, Yan Hu, and Veronica Sundstedt, “On the Number of Participants Needed for Subjective Quality Assessment of 360$^{\circ}$ Videos,” in Proceeding of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 50-59. </li>
@@ -38,7 +38,7 @@ title: "List of publications"
 
 <li style='text-align: justify;'>**Majed Elwardy**, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Yan Hu, “On the Opinion Score Consistency in Repeated 360$^{\circ}$ Video Quality Assessment for Standing and Seated Viewing on Head-Mounted Displays,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Sydney, Australia, Dec. 2021, pp. 1-10.  </li>
 
-<li style='text-align: justify;'>>**Majed Elwardy**, Hans-Jürgen Zepernick, and Thi My Chinh Chu, “On the Number of Subjects Needed for 360$^{\circ}$ Video Quality Experiments: An SOS Based Analysis,” in Proceedings of the IEEE Conference on Quality of Multimedia Experience (QoMEX), Lippstadt, Germany, Sep. 2022, pp. 1-4.</li>
+<li style='text-align: justify;'>**Majed Elwardy**, Hans-Jürgen Zepernick, and Thi My Chinh Chu, “On the Number of Subjects Needed for 360$^{\circ}$ Video Quality Experiments: An SOS Based Analysis,” in Proceedings of the IEEE Conference on Quality of Multimedia Experience (QoMEX), Lippstadt, Germany, Sep. 2022, pp. 1-4.</li>
 
 
 </ol>
