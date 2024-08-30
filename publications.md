@@ -5,7 +5,7 @@ title: "List of publications"
 
 ### Papers included in the thesis
 <ol type="I">
-<li style='text-align: justify;'><mark><b>Majed Elwardy</b></mark>, Hans-Jürgen Zepernick, and Veronica Sundstedt, “Annotated 360-Degree Image and Video Databases: A Comprehensive Survey,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 277-282. <a href="https://github.com/MajedElwardy/majedelwardy.github.io/blob/main/files/ICSPCS_poster_MEW.pdf">[Poster]</a></li> 
+<li style='text-align: justify;'><mark><b>Majed Elwardy</b></mark>, Hans-Jürgen Zepernick, and Veronica Sundstedt, “Annotated 360-Degree Image and Video Databases: A Comprehensive Survey,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 277-282. <a href="https://bthse-my.sharepoint.com/:b:/g/personal/mew_bth_se/ESMm69SQyUlEijIUMIwEWf0B5wjWiZKsWtS1sNrLunY2Rw?e=2johJ8">[Poster]</a></li> 
 
 <li style='text-align: justify;'><mark><b>Majed Elwardy</b></mark>, Hans-Jürgen Zepernick, Yan Hu, and Thi My Chinh Chu, “ACR360: A Dataset on Subjective 360$^{\circ}$ Video Quality Assessment Using ACR Methods,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Bydgoszcs, Poland, Sep. 2023, pp. 1-8.</li>
 
