@@ -3,7 +3,7 @@ layout: page
 title: "List of publications"
 ---
 
-### Studies included in the thesis
+### Papers included in the thesis
 <ol type="I">
 <li style='text-align: justify;'><mark><b>Majed Elwardy</b></mark>, Hans-Jürgen Zepernick, and Veronica Sundstedt, “Annotated 360-Degree Image and Video Databases: A Comprehensive Survey,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 277-282.</li>
 
