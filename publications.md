@@ -23,23 +23,21 @@ title: "List of publications"
 
 
 
-
-
-
 ### Other research contributions related to the scope of this thesis but not included:
-<li style='text-align: justify;'>Majed Elwardy, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Veronica Sundstedt, “Objective Perceptual Video Quality Prediction Using Spatial and Temporal Information Differences,” in Proceedings of the IEEE International Symposium on Communications and Information Technologies (ISCIT), Ho Chi Minh City, Vietnam, Sep. 2018, pp. 436-441.</li>
 
-<li style='text-align: justify;'>Hans-Jürgen Zepernick, Majed Elwardy, Yan Hu, and Veronica Sundstedt, “On the Number of Participants Needed for Subjective Quality Assessment of 360$^{\circ}$ Videos,” in Proceeding of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 50-59. </li>
+<li style='text-align: justify;'>**Majed Elwardy**, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Veronica Sundstedt, “Objective Perceptual Video Quality Prediction Using Spatial and Temporal Information Differences,” in Proceedings of the IEEE International Symposium on Communications and Information Technologies (ISCIT), Ho Chi Minh City, Vietnam, Sep. 2018, pp. 436-441.</li>
 
-<li style='text-align: justify;'>Yan Hu, Majed Elwardy, and Hans-Jürgen Zepernick, “On the Effect of Standing and Seated Viewing of 360$^{\circ}$ Videos on Subjective Quality Assessment,” in Proceedings of the IEEE Conference on Virtual Reality and 3D user interfaces Abstracts and Workshops (VRW), Atlanta, USA, Mar. 2020, pp. 285-286.</li>
+<li style='text-align: justify;'>Hans-Jürgen Zepernick, **Majed Elwardy**, Yan Hu, and Veronica Sundstedt, “On the Number of Participants Needed for Subjective Quality Assessment of 360$^{\circ}$ Videos,” in Proceeding of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Gold Coast, Australia, Dec. 2019, pp. 50-59. </li>
 
-<li style='text-align: justify;'>Thi My Chinh Chu, Hans-Jürgen Zepernick, and Majed Elwardy, “Rating Duration Analysis for Subjective Quality Assessment of 360$^{\circ}$ Videos,” in Proceedings of the International Conference on Virtual Reality and Visualization (ICVRV), Recife, Brazil, Nov. 2020, pp. 1-4.</li>
+<li style='text-align: justify;'>Yan Hu, **Majed Elwardy**, and Hans-Jürgen Zepernick, “On the Effect of Standing and Seated Viewing of 360$^{\circ}$ Videos on Subjective Quality Assessment,” in Proceedings of the IEEE Conference on Virtual Reality and 3D user interfaces Abstracts and Workshops (VRW), Atlanta, USA, Mar. 2020, pp. 285-286.</li>
 
-<li style='text-align: justify;'>Majed Elwardy, Hans-Jürgen Zepernick, and Yan Hu, “On Head Movements in Repeated 360$^{\circ}$ Video Quality Assessment for Standing and Seated Viewing on Head Mounted Displays,” in Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Lisbon, Portugal, Mar. 2021, pp.1-4.</li>
+<li style='text-align: justify;'>Thi My Chinh Chu, Hans-Jürgen Zepernick, and **Majed Elwardy**, “Rating Duration Analysis for Subjective Quality Assessment of 360$^{\circ}$ Videos,” in Proceedings of the International Conference on Virtual Reality and Visualization (ICVRV), Recife, Brazil, Nov. 2020, pp. 1-4.</li>
 
-<li style='text-align: justify;'>Majed Elwardy, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Yan Hu, “On the Opinion Score Consistency in Repeated 360$^{\circ}$ Video Quality Assessment for Standing and Seated Viewing on Head-Mounted Displays,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Sydney, Australia, Dec. 2021, pp. 1-10.  </li>
+<li style='text-align: justify;'>**Majed Elwardy**, Hans-Jürgen Zepernick, and Yan Hu, “On Head Movements in Repeated 360$^{\circ}$ Video Quality Assessment for Standing and Seated Viewing on Head Mounted Displays,” in Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Lisbon, Portugal, Mar. 2021, pp.1-4.</li>
 
-<li style='text-align: justify;'>>Majed Elwardy, Hans-Jürgen Zepernick, and Thi My Chinh Chu, “On the Number of Subjects Needed for 360$^{\circ}$ Video Quality Experiments: An SOS Based Analysis,” in Proceedings of the IEEE Conference on Quality of Multimedia Experience (QoMEX), Lippstadt, Germany, Sep. 2022, pp. 1-4.</li>
+<li style='text-align: justify;'>**Majed Elwardy**, Hans-Jürgen Zepernick, Thi My Chinh Chu, and Yan Hu, “On the Opinion Score Consistency in Repeated 360$^{\circ}$ Video Quality Assessment for Standing and Seated Viewing on Head-Mounted Displays,” in Proceedings of the IEEE International Conference on Signal Processing and Communication Systems (ICSPCS), Sydney, Australia, Dec. 2021, pp. 1-10.  </li>
+
+<li style='text-align: justify;'>>**Majed Elwardy**, Hans-Jürgen Zepernick, and Thi My Chinh Chu, “On the Number of Subjects Needed for 360$^{\circ}$ Video Quality Experiments: An SOS Based Analysis,” in Proceedings of the IEEE Conference on Quality of Multimedia Experience (QoMEX), Lippstadt, Germany, Sep. 2022, pp. 1-4.</li>
 
 
 
