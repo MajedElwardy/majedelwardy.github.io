@@ -1,11 +1,12 @@
+- title: LinkedIn
+  url: https://www.linkedin.com/in/majedelwardy/
+  icon: fab fa-linkedin
+  
 - title: x-twitter
   url: https://x.com/Elwardy
   icon: fab fa-twitter
 
-- title: LinkedIn
-  url: https://www.linkedin.com/in/majedelwardy/
-  icon: fab fa-linkedin
-
-
-
+- title: x-university
+  url: https://myweb.sabanciuniv.edu/melwardy/
+  icon: fab fa-university
 
