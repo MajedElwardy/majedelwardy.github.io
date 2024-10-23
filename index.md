@@ -2,7 +2,7 @@
 
 <p align="center">
   <img  src="https://www.mdpi.com/computers/computers-10-00080/article_deploy/html/images/computers-10-00080-g001-550.jpg">
-  <figcaption>* Image from paper VII</figcaption>
+  <figcaption>* Image taken from paper VII in (<a style="text-decoration:none" href="/publications">publications</a>)</figcaption>
 </p>
 
 <p style="text-align: justify">Majed Elwardy is a Ph.D. student in the Computer Science department at the <a style="text-decoration:none" href="https://www.bth.se/"> Blekinge Institute of Technology</a>, Sweden. He has previously worked as a research assistant at Signal Processing and Information Systems (SPIS) Laboratory at Sabanci University, Turkey, and as a teaching assistant for the Electronics Engineering and Mathematics department at Sabanci University. Prior to that, he was appointed as a teaching, and research assistant in the Electronics and Communications Engineering department (ECE), Mansoura University, Egypt. Majed’s research interests and main field of experience are Statistical Signal Processing, Machine Learning, Video Quality Assessment, Virtual Reality, and Brain-Computer Interfaces. Majed holds a bachelor’s degree in Communications and Information Engineering (CIE) from Mansoura University (2011) and a Master of Science degree in Electronics Engineering (EE) from Sabanci University (2016). </p>
