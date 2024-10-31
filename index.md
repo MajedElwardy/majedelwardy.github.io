@@ -14,6 +14,11 @@ Participants' Quality Experiences and Behavior in 360° Videos - <a style="text-
 
 <a style="text-decoration:none" href="/publications">Link to the list of publications</a>
 
-<body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OFyfD-etv4HrvFgotxNMx7M1ONPY__ik2nr36ZYB26w&cl=ffffff&w=a"></script>
-</body>
+<div id="map-container" style="width: 200px; height: 150px; overflow: hidden;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OFyfD-etv4HrvFgotxNMx7M1ONPY__ik2nr36ZYB26w&cl=ffffff&w=a"></script>
+</div>
+
+#map-container iframe {
+    width: 200px;
+    height: 150px;
+}
